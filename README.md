@@ -1,6 +1,6 @@
-# karinashop
+# Flutter Ecommerce UI with Provider State Management
 
-A new Flutter project.
+A new Flutter Fashion ecommerce project.
 
 ## Getting Started
 
