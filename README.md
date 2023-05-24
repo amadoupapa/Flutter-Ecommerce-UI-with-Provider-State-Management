@@ -1,20 +1,24 @@
 # Flutter Ecommerce UI with Provider State Management
 
-A new Flutter Fashion ecommerce project.
+A new Flutter Fashion ecommerce project( UI texts in french).
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
 ## Screenshots
-![App Screenshot](screenshots/home.png)
+## HOME SCREEN
+<img src="screenshots/home1.jpg" width="300"> <br>
+## Product SCREEN
+<img src="screenshots/product_screen.jpg" width="300"> <br>
+## Order SCREEN
+<img src="screenshots/order_screen.jpg" width="300"> <br>
+## Cart SCREEN
+<img src="screenshots/cart_screen.jpg" width="300">
 
 
-A few resources to get you started if this is your first Flutter project:
+## Contact
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+For any questions or suggestions, feel free to reach out to me at [amadoucoulibaly800@gmail.com](mailto:amadoucoulibaly800@gmail.com).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you for using and contributing to this Flutter Ecommerce UI project!
