@@ -18,8 +18,8 @@ This project is a starting point for a Flutter application.
 
 
 ## Contact
-
-For any questions or suggestions, feel free to reach out to me at [amadoucoulibaly800@gmail.com](mailto:amadoucoulibaly800@gmail.com).
-I'm available for any project
+Another variant of this same app is available with WooCommerce API integration. <br>
+For any questions or suggestions, feel free to reach out to me at [amadoucoulibaly800@gmail.com](mailto:amadoucoulibaly800@gmail.com).<br>
+I'm available for any project.
 
 Thank you for using and contributing to this Flutter Ecommerce UI project!
